@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.png" width="96" height="96" alt="Logo Steam DNS Optimizer"></p>
+<p align="center"><img src="assets/logo.png" width="96" height="96" alt="Logo Steam DNS Optimizer với ba vạch tín hiệu xanh"></p>
 
 # Steam DNS Optimizer
 
@@ -27,13 +27,13 @@ Trong **Danh sách DNS**, bật những nhà cung cấp muốn so sánh hoặc t
 
 - **Dùng VPN hoặc card ảo** — Bật **Hiện card ảo** trên trang quét để chọn đúng giao diện mạng.
 - **Thu nhỏ hoặc bấm X** — Ứng dụng nằm ở khay hệ thống. Mở EXE lần nữa sẽ đưa cửa sổ đang chạy lên trước.
-- **Thoát hẳn** — Bấm chuột phải vào biểu tượng đồng hồ tốc độ rồi chọn **Thoát hoàn toàn (Exit)**. Nếu đang ghi DNS, ứng dụng hoàn tất tác vụ trước khi thoát.
+- **Thoát hẳn** — Bấm chuột phải vào biểu tượng ba vạch tín hiệu màu xanh rồi chọn **Thoát hoàn toàn (Exit)**. Nếu đang ghi DNS, ứng dụng hoàn tất tác vụ trước khi thoát.
 - **Cập nhật từ bản cũ** — Thoát hẳn bản đang chạy trong khay, rồi mở EXE mới. Bản sao DNS và danh sách tùy chỉnh được lưu riêng trong `%LOCALAPPDATA%\SteamDNSOptimizer`.
 
 <details>
 <summary><b>Xem trang Giới thiệu và cách đọc mã phiên bản</b></summary>
 
-Mục **Giới thiệu** có số phiên bản, liên kết tới mã nguồn, ghi chú phát hành và trang báo lỗi. Mã dùng thứ tự **giờ · phút · ngày · tháng · năm**, mỗi phần hai chữ số theo giờ Việt Nam. Ví dụ `v1254251126` tương ứng **12:54 ngày 25/11/2026 (UTC+7)**.
+Mục **Giới thiệu** có số phiên bản, liên kết tới mã nguồn, ghi chú phát hành và trang báo lỗi. Mã dùng thứ tự **giờ · phút · ngày · tháng · năm**, mỗi phần hai chữ số theo giờ Việt Nam. Ví dụ `v1327251126` tương ứng **13:27 ngày 25/11/2026 (UTC+7)**.
 
 ![Trang Giới thiệu hiển thị phiên bản, ngày phát hành và ba liên kết GitHub](docs/images/about.png)
 

@@ -4,9 +4,9 @@ Phần mã nguồn, tài liệu và đồ họa do dự án Steam DNS Optimizer 
 
 Bản EXE kết hợp ứng dụng với PySide6-Fluent-Widgets. Bản kết hợp được phân phối theo GPLv3. Khi phát hành lại bản kết hợp, hãy giữ các thông báo giấy phép và cung cấp mã nguồn tương ứng theo GPLv3. Các thành phần bên dưới vẫn giữ bản quyền và giấy phép riêng. [Nội dung GPLv3](licenses/GPL-3.0.txt) · [Giấy phép của Fluent Widgets](https://pyqt-fluent-widgets.readthedocs.io/en/latest/license.html)
 
-## Mã nguồn tương ứng của v1254251126
+## Mã nguồn tương ứng của v1327251126
 
-Ứng dụng và quy trình build có trong [tag v1254251126](https://github.com/GiangTechiee/steam-dns-optimizer/tree/v1254251126). Phiên bản các gói Python nằm trong [tệp ràng buộc của bản build](docs/build-constraints.txt). Có thể dùng tham số `-c docs/build-constraints.txt` khi cài `requirements-dev.txt` trên Windows x64 với CPython 3.12.13.
+Ứng dụng và quy trình build có trong [tag v1327251126](https://github.com/GiangTechiee/steam-dns-optimizer/tree/v1327251126). Phiên bản các gói Python nằm trong [tệp ràng buộc của bản build](docs/build-constraints.txt). Có thể dùng tham số `-c docs/build-constraints.txt` khi cài `requirements-dev.txt` trên Windows x64 với CPython 3.12.13.
 
 | Thành phần | Mã nguồn đúng phiên bản |
 | --- | --- |

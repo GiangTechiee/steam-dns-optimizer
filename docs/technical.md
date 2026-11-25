@@ -22,7 +22,7 @@ Mỗi cặp DNS và miền có tối đa 2 giây cho DNS và thêm 2,5 giây dù
 
 Các bài kiểm thử dùng thư mục tạm và giả lập DNS, socket, PowerShell hoặc UAC để chạy ngoại tuyến. Kiểm thử đóng gói nạp DLL từ chính EXE và sẽ chạy khi có bản build một tệp. Để chọn bản EXE cần kiểm tra, đặt biến môi trường `STEAMDNS_TEST_EXE` thành đường dẫn đầy đủ.
 
-Bản phát hành v1254251126 dùng CPython 3.12.13 trên Windows x64. Để cài các phiên bản phụ thuộc của lần build này trong môi trường ảo, chạy lệnh bên dưới, sau đó chạy `.\build.ps1`. [Danh sách phiên bản](build-constraints.txt)
+Bản phát hành v1327251126 dùng CPython 3.12.13 trên Windows x64. Để cài các phiên bản phụ thuộc của lần build này trong môi trường ảo, chạy lệnh bên dưới, sau đó chạy `.\build.ps1`. [Danh sách phiên bản](build-constraints.txt)
 
 ```powershell
 .\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt -c docs/build-constraints.txt
